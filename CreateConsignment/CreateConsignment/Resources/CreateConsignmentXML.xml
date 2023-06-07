@@ -1,0 +1,12 @@
+﻿<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+	<soap:Body>
+		<createConsignment xmlns="urn:de.aeb.xnsg.ic.bf">
+			<request xmlns="">
+				<clientSystemId></clientSystemId>
+				<clientIdentCode></clientIdentCode>
+				<resultLanguageIsoCodes>en</resultLanguageIsoCodes>
+				
+			</request>
+		</createConsignment>
+	</soap:Body>
+</soap:Envelope>
